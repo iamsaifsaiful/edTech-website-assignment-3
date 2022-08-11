@@ -1,1 +1,19 @@
-
+@media screen and (max-width: 688px) {
+  .slider-text-area {
+    padding-bottom: 180px;
+  }
+  .slider-text-1 {
+    font-size: 20px;
+  }
+  .slider-text-2 {
+    font-size: 10px;
+  }
+  .slider-button {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 689px) and (max-width: 1024px) {
+  .slider-text-area {
+    padding-bottom: 300px;
+  }
+}
