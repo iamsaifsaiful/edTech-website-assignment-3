@@ -1,3 +1,15 @@
+.col-area {
+  height: 250px !important;
+}
+.image-size {
+  height: 250px;
+}
+.column-1 {
+  width: 48%;
+}
+.details-text {
+  font-size: 12px;
+}
 @media screen and (max-width: 688px) {
   .slider-text-area {
     padding-bottom: 180px;
@@ -11,9 +23,15 @@
   .slider-button {
     font-size: 12px;
   }
+  .column-1 {
+    width: 100%;
+  }
 }
 @media screen and (min-width: 689px) and (max-width: 1024px) {
   .slider-text-area {
     padding-bottom: 300px;
+  }
+  .column-1 {
+    width: 100%;
   }
 }
