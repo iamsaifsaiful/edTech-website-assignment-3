@@ -16,6 +16,7 @@ body {
 .details-text {
   font-size: 12px;
 }
+
 @media screen and (max-width: 688px) {
   .slider-text-area {
     padding-bottom: 180px;
