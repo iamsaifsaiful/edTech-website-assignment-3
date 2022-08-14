@@ -16,7 +16,12 @@ body {
 .details-text {
   font-size: 12px;
 }
-
+.footer-section {
+  height: 450px;
+}
+.footer-content {
+  padding-top: 130px;
+}
 @media screen and (max-width: 688px) {
   .slider-text-area {
     padding-bottom: 180px;
