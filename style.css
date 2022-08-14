@@ -38,6 +38,13 @@ body {
   .column-1 {
     width: 100%;
   }
+  .footer-section {
+    height: 350px;
+  }
+  .footer-content {
+    padding-top: 90px;
+    width: 80%;
+  }
 }
 @media screen and (min-width: 689px) and (max-width: 1024px) {
   .slider-text-area {
@@ -45,5 +52,11 @@ body {
   }
   .column-1 {
     width: 100%;
+  }
+  .footer-section {
+    height: 350px;
+  }
+  .footer-content {
+    padding-top: 90px;
   }
 }
